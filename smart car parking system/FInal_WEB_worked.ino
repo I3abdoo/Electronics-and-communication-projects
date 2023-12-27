@@ -4,8 +4,8 @@
 #include <Servo_ESP32.h>
 Servo_ESP32 servo;
 
-const char* ssid = "Oufa";
-const char* password = "035904246@oufa";
+const char* ssid = "SSID";
+const char* password = "SSID_Password";
 
 WebServer server(80);
 
