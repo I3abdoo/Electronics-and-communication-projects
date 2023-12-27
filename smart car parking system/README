@@ -1,0 +1,17 @@
+• Aim of the project:
+  In this project we are changing the idea of traditional car parking to create
+  a system that makes the process of finding and parking in a parking
+  spot more efficient and convenient for drivers.
+  The project typically involves the use of technology, such as sensors,
+  cameras, and software, to automate and optimize the parking process.
+  It also can be used for reducing the time it takes for drivers to find an
+  available parking spot by providing real-time information on parking
+  availability through a mobile app or other means.
+  Reducing traffic congestion and emissions by minimizing the time
+  spent by drivers searching for parking spots and circling around
+  parking spot and preventing unauthorized parking lot.
+• List of the used components:
+  - ESP32 Development Kit (Wi-Fi and Bluetooth).
+  - 5 IR infrared sensors.
+  - Servo Motor.
+  - 5V Power Source.
